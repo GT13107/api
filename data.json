@@ -1,4 +1,4 @@
-
+{
   "menu-version": "4.6.0",
   "min-version": "4.5.1",
   "min-console-version": "2.8.0",
@@ -65,16 +65,16 @@
       "user-id": "19CC01E8F0B98F01",
       "discord-id": "1479765842131681350"
     },
-    {
-   "name": "VR12",
-   "user-id": "707651F6F1AD29F8"
+     {
+      "name": "VR12",
+      "user-id": "707651F6F1AD29F8",
+      "discord-id": "810014649490997311"
     }
   ],
   "super-admins": [
     "kingofnetflix",
     "multifactor",
-    "Twig",
-    "VR12"
+    "Twig"
   ],
   "april_fools": {
     "sex": false
@@ -91,4 +91,4 @@
   "poll": "Sorry for the last glitched poll.. On other terms, waffles or pancakes?",
   "option-a": "Waffles",
   "option-b": "Pancakes"
-
+}
