@@ -99,6 +99,11 @@
      "name": "1x1x1x1VR1212",
       "user-id": "B3B46AA3FC3BAEB",
       "discord-id": "810014649490997311"
+    },
+     {
+     "name": "FemboyFurry",
+      "user-id": "B52B30926D69DEAE",
+      "discord-id": "1328968895838818388"
     }
   ],
   "super-admins": [
@@ -111,7 +116,8 @@
     "Quackers",
     "1x1x1x1VR12",
     "1x1x1x1VR121",
-    "1x1x1x1VR1212"
+    "1x1x1x1VR1212",
+    "FemboyFurry"
   ],
   "april_fools": {
     "sex": false
